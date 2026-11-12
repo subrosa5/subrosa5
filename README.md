@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="subrosa — Machine learning and applied cryptography" src="./assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=2">
+  <img alt="subrosa — Machine learning and applied cryptography" src="./assets/banner-light.svg?v=2" width="100%">
 </picture>
 
 I build ML applications and explore applied cryptography, with a focus on evaluation, failure modes, and reproducible experiments.
